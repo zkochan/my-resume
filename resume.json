@@ -1,0 +1,139 @@
+{
+  "basics": {
+    "name": "Zoltan Kochan",
+    "label": "Full-Stack Web Developer",
+    "picture": "https://secure.gravatar.com/avatar/5fc794d67333191b9a00a753600ed4e6?size=196&default=retro",
+    "email": "zoltan.kochan@gmail.com",
+    "website": "https://www.kochan.io",
+    "summary": "I am a full-stack web developer. I started with the Microsoft stack (ASP.NET WF/MVC, Entity Framework/NHibernate, SQL). However, from 2014 I am actively using the NodeJS stack and working on several projects on GitHub.",
+    "location": {
+      "city": "Uzhhorod (Ungvár)",
+      "countryCode": "UA"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "zkochan",
+        "url": "https://github.com/zkochan"
+      },
+      {
+        "network": "twitter",
+        "username": "@ZoltanKochan",
+        "url": "https://twitter.com/ZoltanKochan"
+      },
+      {
+        "network": "linkedin",
+        "url": "https://www.linkedin.com/in/zkochan"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "JustAnswer",
+      "position": "Full-stack .NET Developer",
+      "website": "http://www.justanswer.com",
+      "startDate": "2012-06-01",
+      "summary": "Mainly back-end work. Some front-end, including jQuery, Vanilla JS and AngularJS.",
+      "highlights": [
+        "A lot of A/B testing."
+      ]
+    },
+    {
+      "company": "Swan Software Solutions",
+      "position": "Full-stack .NET Developer",
+      "website": "http://www.swansoftwaresolutions.com/",
+      "startDate": "2010-11-01",
+      "endDate": "2012-05-01",
+      "summary": "",
+      "highlights": [
+        "DK Pierce. An internal website of a medical company for creating reports.",
+        "HT Cavo. A document managing system for american lawyers."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Uzhhorod",
+      "area": "Applied Mathematics",
+      "studyType": "Magister",
+      "startDate": "2007-09-01",
+      "endDate": "2012-06-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "C# and .NET",
+      "level": "Master",
+      "keywords": [
+        "ASP.NET MVC",
+        "ASP.NET WebForms",
+        "NHibernate",
+        "Dapper"
+      ]
+    },
+    {
+      "name": "Node.js",
+      "level": "Intermidiate or Master",
+      "keywords": [
+        "hapi",
+        "express",
+        "mongoose"
+      ]
+    },
+    {
+      "name": "Front-end",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Vanilla JS",
+        "jQuery",
+        "AngularJS"
+      ]
+    },
+    {
+      "name": "SQL",
+      "level": "Intermidiate",
+      "keywords": [
+        "MS SQL",
+        "MySQL",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "name": "NoSQL",
+      "level": "Basic",
+      "keywords": [
+        "MongoDB",
+        "Redis"
+      ]
+    },
+    {
+      "name": "Other",
+      "keywords": [
+        "Git",
+        "RabbitMQ"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Ukrainian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Hungarian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Russian",
+      "fluency": "Fluent"
+    }
+  ]
+}
