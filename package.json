@@ -10,6 +10,6 @@
   "author": "Zoltan Kochan",
   "license": "ISC",
   "dependencies": {
-    "resume-cli": "^0.4.8"
+    "resume-cli": "^0.4.16"
   }
 }
