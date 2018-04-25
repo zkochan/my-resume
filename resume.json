@@ -3,9 +3,9 @@
     "name": "Zoltan Kochan",
     "label": "Full-Stack Web Developer",
     "picture": "https://secure.gravatar.com/avatar/5fc794d67333191b9a00a753600ed4e6?size=196&default=retro",
-    "email": "zoltan.kochan@gmail.com",
+    "email": "z@kochan.io",
     "website": "https://www.kochan.io",
-    "summary": "I am a full-stack web developer. I started with the Microsoft stack (ASP.NET WF/MVC, Entity Framework/NHibernate, SQL). However, from 2014 I am actively using the NodeJS stack and working on several projects on GitHub.",
+    "summary": "I am a full-stack web developer. I also love open source. I develop pnpm, which is the 3rd most popular Node.js package manager.",
     "location": {
       "city": "Uzhhorod (Ungvár)",
       "countryCode": "UA"
@@ -30,13 +30,9 @@
   "work": [
     {
       "company": "JustAnswer",
-      "position": "Full-stack .NET Developer",
+      "position": "Full-stack Node.js/.NET Developer",
       "website": "http://www.justanswer.com",
-      "startDate": "2012-06-01",
-      "summary": "Mainly back-end work. Some front-end, including jQuery, Vanilla JS and AngularJS.",
-      "highlights": [
-        "A lot of A/B testing."
-      ]
+      "startDate": "2012-06-01"
     },
     {
       "company": "Swan Software Solutions",
@@ -64,22 +60,10 @@
   ],
   "skills": [
     {
-      "name": "C# and .NET",
+      "name": "Node.js",
       "level": "Master",
       "keywords": [
-        "ASP.NET MVC",
-        "ASP.NET WebForms",
-        "NHibernate",
-        "Dapper"
-      ]
-    },
-    {
-      "name": "Node.js",
-      "level": "Intermidiate or Master",
-      "keywords": [
-        "hapi",
-        "express",
-        "mongoose"
+        "express"
       ]
     },
     {
@@ -88,9 +72,17 @@
       "keywords": [
         "HTML",
         "CSS",
-        "Vanilla JS",
-        "jQuery",
-        "AngularJS"
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "C# and .NET",
+      "level": "Intermidiate",
+      "keywords": [
+        "ASP.NET MVC",
+        "ASP.NET WebForms",
+        "NHibernate",
+        "Dapper"
       ]
     },
     {
